@@ -1,2 +1,2 @@
 # student-portal-demo
-demo
+student details
